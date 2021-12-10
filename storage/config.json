@@ -1,0 +1,14 @@
+{
+    "bridge": {
+        "name": "Homebridge Plugin Test",
+        "username": "AC:21:4D:E3:CE:30",
+        "advertiser": "ciao",
+        "bind": ["en1"]
+    },
+    "platforms": [
+        {
+            "platform": "MyAir",
+            "address": "192.168.88.160"
+        }
+    ]
+}
