@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "human-object-diff": "^2.0.2",
-    "node-fetch": "^2.6.5",
+    "node-fetch": "^2.6.7",
     "sleep-promise": "^9.1.0"
   },
   "devDependencies": {
